@@ -1,2 +1,2 @@
 # ciro73_repo
-v24
+v26
